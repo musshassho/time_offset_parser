@@ -24,6 +24,11 @@ def find_upstream_reads(nd_input):
     return read_node_list
 
 
+
+def find_downstream_retime(read_name):
+
+
+
 def get_retime_():
 
     retime_nodes = nuke.allNodes("Retime")
@@ -58,21 +63,21 @@ def get_json():
         data = {}
     else:
         _file = open(jason_path, "r")
-        data = jason.load(file)
+        data = json.load(file)
 
     return data,jason_path
 
 
-def write_jason(offset):
+def write_jason(mov_file):
     """
 
     :return:
     """
     script_path = nuke.root()['name'].value()
-    regex = re.search(r"projects/(\w+)/shots/(\w+)",script_path) #tweak this expression to corresponding fbb path style
+    regex = re.search(r"//fbbblue/00_jobs/baj_benjamin/prod/work/shots/(\w+)_(\d+)/(\d+)", script_path)
 
     if regex:
-        shot = "%s_%s" % (regex.group(1), regex.group(2))
+        shot = "{}_{}_{}".format(regex.group(1), regex.group(2), regex.group(3))
     else:
         print "Invalid Path"
         return
@@ -81,10 +86,16 @@ def write_jason(offset):
     data = jason[0]
     jason_path = jason[1]
 
-    if data.has_key(shot):
-        data[shot] += TIMER
+    if data.has_key(mov_file):
+        data[mov_file] = {"shots"}
     else:
-        data[shot] = TIMER
+        data[mov_file] = {}
+
+    if data[mov_file][shot]:
+        data[mov_file][shot]
+
+
+
 
     _file = open(json_path, "w")
     json.dump(data, _file)
