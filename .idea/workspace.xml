@@ -2,17 +2,15 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/time_offset/time_offset_parser.py" line="2" mnemonic="1" />
+    <bookmark url="file://$PROJECT_DIR$/time_offset/analyze_jason_offset_data.py" line="164" mnemonic="9" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9ba90be1-51d4-422a-92ca-dc4052657b7d" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/time_offset/analyze_jason_offset_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time_offset/file_centric_offset_finder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/time_offset/filenames.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analize_data_cleaned_up.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analyze_jason_data_alfie.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time_offset/menu.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/time_offset/time_offset_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/time_offset/time_offset_parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/time_offset/timelog.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/time_offset/timelog_viewer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/time_offset/analyze_jason_offset_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/time_offset/analyze_jason_offset_data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/time_offset/filenames.py" beforeDir="false" afterPath="$PROJECT_DIR$/time_offset/filenames.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,13 +19,16 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="time_offset_parser" />
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="file_centric_offset_finder.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/time_offset/file_centric_offset_finder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2397">
-              <caret line="144" column="25" selection-start-line="144" selection-start-column="25" selection-end-line="144" selection-end-column="25" />
+            <state relative-caret-position="-6">
+              <caret line="86" selection-start-line="86" selection-end-line="86" />
             </state>
           </provider>
         </entry>
@@ -35,8 +36,8 @@
       <file leaf-file-name="analyze_jason_offset_data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/time_offset/analyze_jason_offset_data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="527">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="1092">
+              <caret line="140" column="50" selection-start-line="140" selection-start-column="50" selection-end-line="140" selection-end-column="50" />
               <folding>
                 <element signature="e#12#21#0" expanded="true" />
               </folding>
@@ -44,11 +45,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="filenames.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/time_offset/filenames.py">
+      <file leaf-file-name="analize_data_cleaned_up.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/analize_data_cleaned_up.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="956">
-              <caret line="344" column="26" selection-start-line="344" selection-start-column="26" selection-end-line="344" selection-end-column="26" />
+            <state relative-caret-position="136">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#11#20#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -78,10 +82,18 @@
         <option value="$PROJECT_DIR$/time_offset/time_offset_parser.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.py" />
         <option value="$PROJECT_DIR$/time_offset/file_centric_offset_fider.py" />
-        <option value="$PROJECT_DIR$/time_offset/analyze_jason_offset_data.py" />
-        <option value="$PROJECT_DIR$/time_offset/filenames.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
         <option value="$PROJECT_DIR$/time_offset/file_centric_offset_finder.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_3.py" />
+        <option value="$PROJECT_DIR$/time_offset/filenames.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.py" />
+        <option value="$PROJECT_DIR$/time_offset/analyze_jason_offset_data.py" />
+        <option value="$PROJECT_DIR$/analize_data_cleaned_up.py" />
       </list>
     </option>
   </component>
@@ -98,7 +110,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -106,24 +117,21 @@
               <item name="time_offset_parser" type="b2602c69:ProjectViewProjectNode" />
               <item name="time_offset_parser" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="time_offset_parser" type="b2602c69:ProjectViewProjectNode" />
-              <item name="time_offset_parser" type="462c0819:PsiDirectoryNode" />
-              <item name="time_offset" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dotnuke" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\BORIS\03_git_repos\time_offset_parser" />
       <recent name="D:\BORIS\03_git_repos\time_offset_parser\time_offset" />
     </key>
   </component>
@@ -139,8 +147,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.scratch_2">
-    <configuration name="file_centric_offset_fider" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.analize_data_cleaned_up">
+    <configuration name="analize_data_cleaned_up" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="time_offset_parser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/analize_data_cleaned_up.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="analyze_jason_offset_data" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="time_offset_parser" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -152,31 +178,13 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time_offset/file_centric_offset_fider.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time_offset/analyze_jason_offset_data.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="filenames" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="time_offset_parser" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/time_offset" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time_offset/filenames.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="scratch_2" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="scratch_6" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="time_offset_parser" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,13 +196,13 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_2.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="time_offset_parser" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="scratch_8" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="time_offset_parser" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -202,28 +210,48 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/time_offset" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/time_offset/time_offset_parser.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="scratch_9" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="time_offset_parser" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.time_offset_parser" />
-      <item itemvalue="Python.file_centric_offset_fider" />
-      <item itemvalue="Python.filenames" />
-      <item itemvalue="Python.scratch_2" />
+      <item itemvalue="Python.analyze_jason_offset_data" />
+      <item itemvalue="Python.scratch_6" />
+      <item itemvalue="Python.scratch_8" />
+      <item itemvalue="Python.scratch_9" />
+      <item itemvalue="Python.analize_data_cleaned_up" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.scratch_2" />
-        <item itemvalue="Python.filenames" />
-        <item itemvalue="Python.file_centric_offset_fider" />
-        <item itemvalue="Python.time_offset_parser" />
+        <item itemvalue="Python.analize_data_cleaned_up" />
+        <item itemvalue="Python.scratch_8" />
+        <item itemvalue="Python.scratch_9" />
+        <item itemvalue="Python.analyze_jason_offset_data" />
+        <item itemvalue="Python.scratch_6" />
       </list>
     </recent_temporary>
   </component>
@@ -240,32 +268,75 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1176" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15437302" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.526975" visible="true" weight="0.119072706" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32947975" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.08574181" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32947975" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32947975" />
+      <window_info anchor="bottom" id="Python Console" order="7" weight="0.32851636" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.24662814" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32947975" />
+      <window_info active="true" id="Favorites" order="2" sideWeight="0.47302505" side_tool="true" visible="true" weight="0.119072706" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39980733" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.py</url>
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/time_offset/file_centric_offset_finder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2397">
+          <caret line="144" column="25" selection-start-line="144" selection-start-column="25" selection-end-line="144" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time_offset/analyze_jason_offset_data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#12#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time_offset/filenames.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5848">
+          <caret line="344" column="26" selection-start-line="344" selection-start-column="26" selection-end-line="344" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/time_offset/file_centric_offset_finder.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2397">
@@ -524,27 +595,89 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/time_offset/analyze_jason_offset_data.py">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analyze_jason_data_alfie.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <caret line="31" column="14" lean-forward="true" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="670">
+          <caret line="1316" column="16" lean-forward="true" selection-start-line="1316" selection-start-column="16" selection-end-line="1316" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_6.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="1259" column="11" lean-forward="true" selection-start-line="1259" selection-start-column="11" selection-end-line="1259" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/time_offset/filenames.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="803">
+          <caret line="358" column="22" lean-forward="true" selection-start-line="358" selection-start-column="22" selection-end-line="358" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_7.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="8" selection-start-line="5" selection-end-line="5" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_9.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="901">
+          <caret line="53" column="19" lean-forward="true" selection-start-line="20" selection-end-line="53" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch_8.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="819">
+          <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
           <folding>
-            <element signature="e#12#21#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/time_offset/file_centric_offset_finder.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2397">
-          <caret line="144" column="25" selection-start-line="144" selection-start-column="25" selection-end-line="144" selection-end-column="25" />
+        <state relative-caret-position="-6">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/time_offset/filenames.py">
+    <entry file="file://$PROJECT_DIR$/time_offset/analyze_jason_offset_data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="956">
-          <caret line="344" column="26" selection-start-line="344" selection-start-column="26" selection-end-line="344" selection-end-column="26" />
+        <state relative-caret-position="1092">
+          <caret line="140" column="50" selection-start-line="140" selection-start-column="50" selection-end-line="140" selection-end-column="50" />
+          <folding>
+            <element signature="e#12#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analize_data_cleaned_up.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#11#20#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

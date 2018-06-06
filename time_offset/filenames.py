@@ -360,5 +360,4 @@ filenames = ["004_05-01 A MOS.mov",
 "005-010_Plate-02 B.mov",]
 
 
-for i in filenames:
-    print i
+print len(filenames)
